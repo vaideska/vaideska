@@ -1,4 +1,3 @@
-# Кузнецова Татьяна
 ## Frontend Developer
 
 ✉️ tatiana.vaideska@gmail.com
