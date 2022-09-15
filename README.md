@@ -10,7 +10,7 @@
 
 ## О себе
 
-Привет! Я фронтенд-разработчица с коммерческм опытом в IT в другой сфере. В обучении выбрала стратегию изучить хорошо JavaScript, поэтому для меня происходящее в React, Redux и в других библиотеках не является магией.
+Привет! Я фронтенд-разработчица, которая стремится стать настоящим инженером. Я очень люблю JavaScript и для меня первостепенно изучение программирования, а не фреймворки и инструменты.
 
 Ранее 3,5 года работала разработчицей на Oracle Siebel CRM. В последний год в качестве тимлида. Разрабатывала и внедряла CRM-системы на крупных банковских проектах. Решила перепрофилироваться потому, что всегда хотела именно кодить и вижу для себя больше интересных проектов в веб-разработке.
 
@@ -22,9 +22,10 @@
 | -----------------------|----------------------------|----------------|
 | JavaScript (ES6)       | Webpack                    |SQL, PL/SQL     |
 | React                  | Jest                       |REST            |
-| Redux, Redux-Toolkit   | Git, Github, Github Actions|SOAP            |
-| TypeScript             | Eslint                     |JIRA, Confluence|
-| HTML                   | VSCode                     |Agile           |
+| Backbone.js            | Git, Github, Github Actions|SOAP            |
+| Redux, Redux-Toolkit   | Eslint                     |Agile           |
+| TypeScript             | VSCode                     |JIRA, Confluence|
+| HTML                   |                            |                |
 | CSS                    |                            |                |
 | DOM API                |                            |                |
 | БЭМ, OOCSS, Atomic CSS |                            |                |
@@ -36,8 +37,11 @@
 
 
 ## Опыт работы
+### AmoCRM
+Июль 2021 — по настоящее время - Frontend developer
+
 ### Яндекс.Практикум (part time)
-Май 2022 — по настоящее время — Code Reviewer (Frontend developer)
+Май 2022 — Июль 2022 — Code Reviewer (Frontend developer)
 
 ### СберМаркет (стажировка)
 Декабрь 2021 — Февраль 2022 (3 месяца) — Frontend developer
