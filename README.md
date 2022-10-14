@@ -38,7 +38,7 @@
 
 ## Опыт работы
 ### AmoCRM
-Июль 2021 — по настоящее время - Frontend developer
+Июль 2022 — по настоящее время - Frontend developer
 
 ### Яндекс.Практикум (part time)
 Май 2022 — Июль 2022 — Code Reviewer (Frontend developer)
